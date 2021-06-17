@@ -513,6 +513,12 @@ ul.our-primary-menu li ul li a:hover{
 	color: #b1afaf;
 	font-weight: 600;
 }
+.line{
+    background: rgb(255,255,255);
+    background: linear-gradient(45deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 35%, rgba(255,255,255,1) 100%);
+}
+
+
 .purchase-section{
     background: url(img/free-bg.jpg) #3366ff no-repeat top center;
     background-size: cover; 
